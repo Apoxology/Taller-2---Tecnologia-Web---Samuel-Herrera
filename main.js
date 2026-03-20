@@ -1,6 +1,5 @@
 /**
  * PROYECTO: NBA Dynamic Hub
- * Descripción: Manejo dinámico del DOM, navegación SPA y estructuras de control.
  */
 
 document.addEventListener("DOMContentLoaded", () => {
